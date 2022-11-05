@@ -1,0 +1,167 @@
+body{
+  color:#40514E;
+  margin:0px;
+  text-align:center;
+  font-family:'Merriweather',serif;
+
+}
+h1{
+  margin-top:15px;
+  font-family:'Sacramento',cursive;
+  font-size:5.62em;
+  color:#182747;
+  font-weight:normal;
+  padding:10px;
+}
+h2{
+  margin-top:0px;
+  font-size:2.5rem;
+  color:#66BFBF;
+  font-weight:normal;
+  padding:30px;
+}
+h3{
+  color:#11999E;
+}
+  p{
+      font-family:'Sacramento',cursive;
+      line-height:2;
+
+}
+.intro{
+  width:30%;
+  margin:auto;
+}
+
+    .bc{
+      position:absolute;
+      left: 200px;
+      bottom: 300px;
+      }
+      .middle{
+      margin:100px 0;
+      }
+      .bottom{
+        background-color:#E0144C;
+      }
+.skill-row{
+  width:50%;
+  margin:auto;
+  text-align:left;
+  line-height:2;
+}
+.skillsimg{
+  float:left;
+  margin-top:80px;
+  margin-left:10px;
+}
+hr{
+  border:dotted #425F57 6px;
+  border-bottom: none;
+  width:10%;
+  margin:auto;
+
+}
+.sportsimg{
+  float:right;
+  margin-top:70px;
+  margin-right:10px;
+}
+      /* body {
+  background-color:#B2B2B2;
+}
+hr{
+ border-style:none;
+ border-top-style:dotted;
+ border-color:;
+ border-width:5px;
+ width:5%;
+}
+h1{
+  color:#DC5F00;
+}
+h3{
+  color:#DC5F00;
+} */
+.top{
+  background-color:powderblue;
+  position:relative;
+  padding-top:100px;
+}
+.tc{
+  position: absolute;
+  right:30px;
+  top:40px;
+}
+  /* height:100px;
+  width:100px;
+
+  position:absolute;
+
+}
+.middle{
+  background-color:red;
+  /* height:100px;
+  width:100px; */
+  /* position:absolute;
+  left:100px;
+  top:100px; */
+  /* padding-top:100px; */
+
+
+
+.middle{
+background-color:#06283D;
+
+}
+.bottom{
+background-color:#66BFBF;
+padding:50px 0 20px;
+}
+.topcloud{
+position:relative;
+left:200px;
+}
+.bottomcloud{
+  position:absolute;
+}
+.footer-link{
+  color:#DC5F00;
+  text-decoration:none;
+}
+a:hover{
+  color:#EAF6F;
+
+}
+.copyright{
+  color:#EAF6F6;
+  font-size:0.8rem;
+  padding:20px 0;
+}
+
+.btn {
+  background: #3498db;
+  background-image: -webkit-linear-gradient(top, #3498db, #2980b9);
+  background-image: -moz-linear-gradient(top, #3498db, #2980b9);
+  background-image: -ms-linear-gradient(top, #3498db, #2980b9);
+  background-image: -o-linear-gradient(top, #3498db, #2980b9);
+  background-image: linear-gradient(to bottom, #3498db, #2980b9);
+  -webkit-border-radius: 28;
+  -moz-border-radius: 28;
+  border-radius: 28px;
+  font-family: Georgia;
+  color: #d5e0dc;
+  font-size: 20px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #3cb0fd;
+  background-image: -webkit-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: -moz-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: -ms-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: -o-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: linear-gradient(to bottom, #3cb0fd, #3498db);
+  text-decoration: none;
+}
